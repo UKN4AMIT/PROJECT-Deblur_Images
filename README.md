@@ -14,6 +14,8 @@ In this project, we have implemented two different methods for image deblurring 
 Below shows an example of the sharp, blurred, deblurred images (from left to right).    
 ![image](./figs/7200_0.png)
 
+### Ryuk
+
 **Contribution Statement**:
 + Yilin Lyu: Understanding the novel Deblur GAN model and implemented in Tensorflow, trained optimized and tested. 
 + Yiyi Zhang:  Model training testing and evaluating, hyperparameters searching, web application development. 
